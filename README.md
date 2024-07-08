@@ -246,5 +246,8 @@ PaddleOCR 由 [PMC](https://github.com/PaddlePaddle/PaddleOCR/issues/12122) 监�
 
 ## 许可证书
 本项目的发布受<a href="https://github.com/PaddlePaddle/PaddleOCR/blob/master/LICENSE">Apache 2.0 license</a>许可认证。
-#   T e x t - D e t e c t i o n _ D B N e t  
+#   T e x t - D e t e c t i o n _ D B N e t 
+ 
+ #   T e x t - D e t e c t i o n _ D B N e t  
+ #   T e x t - D e t e c t i o n _ D B N e t  
  
