@@ -1,0 +1,20 @@
+shapely
+scikit-image
+imgaug
+pyclipper
+lmdb
+tqdm
+numpy<2.0
+rapidfuzz
+opencv-python
+opencv-contrib-python
+cython
+Pillow
+pyyaml
+requests
+
+# pip install paddleocr --upgrade
+# pip install paddlepaddle
+
+## For use_gpu: true
+# pip install paddlepaddle-gpu
